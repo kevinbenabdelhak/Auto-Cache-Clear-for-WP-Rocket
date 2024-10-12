@@ -11,7 +11,7 @@
 
 Améliorez les performances de votre site en vidant automatiquement le cache des pages modifiées récemment avec WP Rocket.
 
-[![Voir le tutoriel](https://img.youtube.com/vi/ecr4u1tJ8nE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ecr4u1tJ8nE&ab_channel=KevinBenabdelhak)
+[![Voir le tutoriel](https://img.youtube.com/vi/z76hPHdzj54/maxresdefault.jpg)](https://www.youtube.com/watch?v=z76hPHdzj54&ab_channel=KevinBenabdelhak)
 
 
 

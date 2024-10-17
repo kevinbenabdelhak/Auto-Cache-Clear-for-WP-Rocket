@@ -44,7 +44,7 @@ Améliorez les performances de votre site en vidant automatiquement le cache des
    - Allez dans **Outils** > **Auto Cache Clear**.
    - Activez la vidange automatique et configurez vos intervalles préférés.
 
-## Frequently Asked Questions
+## FAQ
 
 ### Est-ce que cela nécessite WP Rocket ?
 

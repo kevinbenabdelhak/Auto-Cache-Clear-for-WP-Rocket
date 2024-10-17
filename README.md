@@ -30,7 +30,7 @@ Améliorez les performances de votre site en vidant automatiquement le cache des
 ## Installation
 
 1. **Téléchargez le fichier ZIP du plugin :**  
-   Depuis la page d'Auto Cache Clear for WP Rocket, [téléchargez le fichier ZIP](https://kevin-benabdelhak.fr/plugins/auto-cache-clear-wp-rocket/).
+   Depuis la page d'Auto Cache Clear for WP Rocket, [téléchargez le fichier ZIP](https://kevin-benabdelhak.fr/plugins/auto-cache-clear-for-wp-rocket/).
 
 2. **Uploader le fichier ZIP du plugin :**  
    - Allez dans le panneau d'administration de WordPress et cliquez sur **Extensions** > **Ajouter**.

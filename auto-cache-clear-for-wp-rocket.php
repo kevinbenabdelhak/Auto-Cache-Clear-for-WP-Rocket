@@ -8,7 +8,7 @@
 
 * Description: Auto Cache Clear for WP Rocket est un plugin WordPress qui permet de vider automatiquement le cache des pages modifiées récemment grâce à une option configurable dans le panneau d'administration de WP Rocket. Restez à jour avec vos modifications sans perdre de temps à vider manuellement le cache.
 
-* Version: 1.1
+* Version: 1.0
 
 * Author: Kevin BENABDELHAK
 
